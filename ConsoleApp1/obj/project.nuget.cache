@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TwQQFCGeyRr7XZ+fxwn7ZWZTGyOrEeWpMpswnwqnKIupg1qwe+KLBvkXJH34pBUwtORbTDAklUHSYde0BqrkoQ==",
+  "dgSpecHash": "9zOroXwbUVGKRh5UMddY+Vgl7TCHuUe0nK1kG09Pkr3EtxPGnUgGFKzq/UfbsGn2OZpnB5WuepoRWy4kKDZakg==",
   "success": true,
   "projectFilePath": "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nazarii\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
