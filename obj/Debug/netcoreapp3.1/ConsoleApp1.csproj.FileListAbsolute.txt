@@ -1,0 +1,19 @@
+E:\Programming\.NET\AppVeyor Test\TestAppVeyor\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Programming\.NET\AppVeyor Test\TestAppVeyor\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Programming\.NET\AppVeyor Test\TestAppVeyor\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Programming\.NET\AppVeyor Test\TestAppVeyor\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Programming\TestAppVeyor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\Programming\TestAppVeyor\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

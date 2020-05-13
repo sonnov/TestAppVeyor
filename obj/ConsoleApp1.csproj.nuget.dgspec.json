@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Programming\\TestAppVeyor\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Programming\\TestAppVeyor\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Programming\\TestAppVeyor\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\Programming\\TestAppVeyor\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Nazarii\\.nuget\\packages\\",
-        "outputPath": "E:\\Programming\\.NET\\AppVeyor Test\\TestAppVeyor\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Programming\\TestAppVeyor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nazarii\\AppData\\Roaming\\NuGet\\NuGet.Config",
